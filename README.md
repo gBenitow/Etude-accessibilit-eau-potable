@@ -4,7 +4,7 @@
 *Projet réalisé dans le cadre de la formation Data Analyst de l'organisme Openclassrooms*  
 
 ### Mise en situation
-Vous êtes consultant Data Analyst en mission auprès de l'ONG DWFA (Drinking Water For All), une organisation qui contribue à assurer l'accessibilité à l'eau potable mondiale. Vous avez pour mission de créer un tableau de bord utilisant des données et des indicateurs pour identifier les pays ayant des problèmes d'accès à l'eau, et guider les actions de l'ONG. Vous utiliserez un outils de visualisation comme Power BI. 
+Vous êtes consultant Data Analyst en mission auprès de l'ONG DWFA (Drinking Water For All), une organisation qui contribue à assurer l'accessibilité à l'eau potable mondiale. Vous avez pour mission de créer un tableau de bord d'aide à la décision, utilisant des données et des indicateurs pour identifier les pays ayant des problèmes d'accès à l'eau. Vous utiliserez un outils de visualisation comme Power BI. 
 
 ### Données  
 * BasicAndSafelyManagedDrinkingWaterServices.csv (FAO)
